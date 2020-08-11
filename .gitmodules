@@ -1,0 +1,9 @@
+[submodule "SecureMedMail-Backend"]
+	path = SecureMedMail-Backend
+	url = https://github.com/styleandsubstance/SecureMedMail-Backend.git
+[submodule "SecureMedMail-Windows"]
+	path = SecureMedMail-Windows
+	url = https://github.com/styleandsubstance/SecureMedMail-Windows.git
+[submodule "SecureMedMail-Portable"]
+	path = SecureMedMail-Portable
+	url = https://github.com/styleandsubstance/SecureMedMail-Portable.git
